@@ -1,8 +1,8 @@
 # Django guide for implementing real time application
 
-This is the example project for implementing Tic Tac Toe game. 
+<!-- This is the example project for implementing Tic Tac Toe game.  -->
 
-![Demo GIF](./demo_ttt.gif)
+<!-- ![Demo GIF](./demo_ttt.gif) -->
 
 
 Guide link: <link here>
